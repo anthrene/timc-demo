@@ -1,0 +1,6 @@
+箱内部の設置物
+	マイコン：72x47mm、側面内側、側面ベタ貼り、4隅固定（http://akizukidenshi.com/catalog/g/gP-03231/）
+	ICリーダ：60x40mm、天板内側、コイン投入穴のすぐ横に、穴と並行で、天板に直行して固定したい、4箇所固定（http://www.aitendo.com/product/7415）
+	アンプ：19.4mmx17.8mm、側面内側、側面ベタ貼り、2箇所固定（https://www.switch-science.com/catalog/2749/）
+	スピーカ：直径39.6mm、側面内側、側面ベタ貼り、ネジ穴無いので受けてくれるポケット的なものが作れれば嬉しい（https://static.sparkfun.com/datasheets/Components/General/thinspeakerddraw.pdf）
+	※3mmプラネジ（http://akizukidenshi.com/catalog/g/gP-02743）で留めたい
