@@ -11,3 +11,10 @@ Arduino core for the ESP32, master branch, https://github.com/espressif/arduino-
 #Arduino IDEからインストールできないので、GitHubのmaster branchをインストールすること。
 #インストール先は以下。
 #C:\Program Files (x86)\Arduino\hardware\espressif\esp32
+
+AquesTalk pico for ESP32, 1.0.0, https://www.a-quest.com/download.html#a-etc
+#インストール先とファイルは以下。
+#C:\Program Files (x86)\Arduino\hardware\espressif\esp32\tools\sdk\lib\libaquestalk.a
+#C:\Program Files (x86)\Arduino\hardware\espressif\esp32\tools\sdk\include\aquestalk\aquestalk.h
+#リンクの手順通りに下記ファイルを作成。
+#C:\Program Files (x86)\Arduino\hardware\espressif\esp32\platform.local.txt
